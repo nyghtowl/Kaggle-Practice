@@ -1,4 +1,4 @@
-led / optimized / DLL files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 
@@ -47,4 +47,6 @@ coverage.xml
 *.log
 
 docs/_build/
-target/
+target
+
+/data
