@@ -49,4 +49,5 @@ coverage.xml
 docs/_build/
 target
 
-/data
+*/data
+*.DS_Store
